@@ -1,5 +1,5 @@
 # scanner
-This is intended to be a replacement scanner for the ToS/SP/LSP teams. The final product will have:
+This is intended to be a replacement scanner for the ToS/SP/LSP teams. The final product will have:</br>
 1. Quick
 2. Standalone (expanded)
 3. Options to make scans verbose (to cut down on time spent examining files after the fact)
